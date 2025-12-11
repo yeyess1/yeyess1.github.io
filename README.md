@@ -117,8 +117,7 @@ Matplotlib · Seaborn · Plotly · Power BI
 # 🌐 Conecta conmigo
 
 📧 Email: **yesanabria_10@hotmail.com**  
-🔗 LinkedIn: *tu_link_aquí*  
-💻 GitHub: *github.com/tuusuario*  
+🔗 LinkedIn: **https://www.linkedin.com/in/yeiver-sanabria-7558261bb/**
 
 ---
 
