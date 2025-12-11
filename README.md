@@ -86,7 +86,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 
 ---
 
-# 🛠️ Tecnologías Dominadas
+# Tecnologías Dominadas
 
 ### **Lenguajes**
 Python · R · SQL · PySpark · Bash · JavaScript (básico)
@@ -106,7 +106,7 @@ Matplotlib · Seaborn · Plotly · Power BI
 
 ---
 
-# 🎓 Formación Académica
+# Formación Académica
 
 - **Pregrado en Ciencia de Datos** · Universidad Externado de Colombia  
 - **Ingeniería de Software / Desarrollo de Software** · Universidad Sergio Arboleda  
