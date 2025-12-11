@@ -8,7 +8,7 @@ Mi enfoque es **práctico y orientado a impacto**, diseñando soluciones complet
 
 ---
 
-## 🚀 ÁREAS DE ESPECIALIZACIÓN
+## ÁREAS DE ESPECIALIZACIÓN
 
 - **Series temporales:** ARIMA, SARIMA, Holt-Winters, BSTS  
 - **Machine Learning supervisado:** Regresión, Árboles, SVM, Redes Neuronales  
