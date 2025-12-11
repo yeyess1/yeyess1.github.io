@@ -1,4 +1,4 @@
-# 👋 Hola, soy Yeiver Sanabria  
+# Hola, soy Yeiver Sanabria  
 ### Data Scientist | Machine Learning & Forecasting  
 Bogotá, Colombia | Remoto
 
@@ -20,14 +20,14 @@ Mi enfoque es **práctico y orientado a impacto**, diseñando soluciones complet
 
 ---
 
-# 📂 Proyectos Destacados
+# Proyectos Destacados
 
 A continuación encontrarás una selección de mis proyectos en Ciencia de Datos, cada uno con impacto real, modelos aplicados y resultados medibles.
 
 ---
 
-## 🔥 1. Forecasting de Empleo en Manufactura (México)  
-**🏆 Proyecto ganador de concurso académico de Data Science**
+##  1. Forecasting de Empleo en Manufactura (México)  
+** Proyecto ganador de concurso de Data Science en consultora Mexicana**
 
 📌 **Objetivo:** predecir el nivel de empleo en el sector manufacturero para apoyar decisiones de planeación laboral.  
 📌 **Técnicas:** BSTS, ARIMA, comparaciones de modelos, validación cruzada.  
@@ -38,7 +38,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 
 ---
 
-## 🔥 2. Predicción de Fuga de Clientes (Banco en España)
+## 2. Predicción de Fuga de Clientes (Banco en España)
 
 📌 **Objetivo:** identificar clientes con alta probabilidad de abandono.  
 📌 **Modelo:** regresión logística, curvas ROC/AUC, análisis de variables.  
@@ -50,7 +50,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 
 ---
 
-## 🔥 3. Clasificación de Terrenos con Imágenes Satelitales (Copernicus)
+## 3. Clasificación de Terrenos con Imágenes Satelitales (Copernicus)
 
 📌 **Objetivo:** clasificar uso de suelo mediante imágenes multiespectrales.  
 📌 **Tecnologías:** SVM, raster processing, normalización multibanda.  
@@ -63,7 +63,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 
 ---
 
-## 🔥 4. Pronóstico de Tasa de Suicidio – Colombia
+## 4. Pronóstico de Tasa de Suicidio – Colombia
 
 📌 **Objetivo:** modelar y predecir tasas de suicidio usando aproximaciones bayesianas.  
 📌 **Técnicas:** regresión bayesiana, intervalos creíbles, comparación de modelos.  
@@ -73,7 +73,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 
 ---
 
-## 🔥 5. Modelos de Forecasting para Inventarios y Ventas (Aplicados en Castor Data)
+## 5. Modelos de Forecasting para Inventarios y Ventas (Aplicados en Castor Data)
 
 📌 **Contexto real de negocio:** e-commerce tecnológico en Colombia.  
 📌 **Modelos:** ARIMA, SARIMA, BSTS, Holt-Winters.  
