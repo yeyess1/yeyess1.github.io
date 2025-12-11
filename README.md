@@ -33,9 +33,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 📌 **Técnicas:** BSTS, ARIMA, comparaciones de modelos, validación cruzada.  
 📌 **Resultados:** obtuve el menor error RMSE entre los participantes, entregando un modelo robusto y interpretable.
 
-🔗 **Repositorio:** *[Próximamente]*  
-🔗 **Notebook:** *[Próximamente]*  
-
+🔗 **Repositorio:** https://github.com/yeyess1/CatchProject 
 ---
 
 ## 2. Predicción de Fuga de Clientes (Banco en España)
@@ -46,7 +44,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 - Identificación del **15% de clientes que realmente abandonaron**,  
 - Modelo con **accuracy alto** en test y explicaciones accionables para el negocio.
 
-🔗 **Repositorio:** *[Próximamente]*
+🔗 **Repositorio:** Bajo pedido
 
 ---
 
@@ -59,7 +57,8 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 - Métricas por clase  
 - Aplicación en análisis territorial y ambiental.
 
-🔗 **Repositorio:** *[Próximamente]*
+🔗 **Notebook:** *https://colab.research.google.com/drive/1JE-uD9X0nniXXC2qhgWxR3Ll8lT2m-B2*
+*https://colab.research.google.com/drive/1ijhHf89NAcLOOn0vtS94AbNyQEbC2KNl*
 
 ---
 
@@ -69,8 +68,7 @@ A continuación encontrarás una selección de mis proyectos en Ciencia de Datos
 📌 **Técnicas:** regresión bayesiana, intervalos creíbles, comparación de modelos.  
 📌 **Resultados:** interpretación clara y comunicación efectiva a stakeholders no técnicos.
 
-🔗 **Repositorio:** *[Próximamente]*
-
+🔗 **Repositorio:** https://github.com/yeyess1/CatchProject
 ---
 
 ## 5. Modelos de Forecasting para Inventarios y Ventas (Aplicados en Castor Data)
